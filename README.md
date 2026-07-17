@@ -87,7 +87,7 @@ loan-approval-prediction/
 ```bash
 # 1. Clone the repository
 git clone https://github.com/<your-username>/loan-approval-prediction.git
-cd CreditSystem
+cd loan-approval-prediction
 
 # 2. Create and activate a virtual environment (recommended)
 python -m venv venv
