@@ -63,12 +63,17 @@ Raw Data → EDA → Missing Value Handling → Encoding → Scaling → Modelli
 ## 🗂️ Project Structure
 
 ```
-CreditSystem/
-├── loan_approval_prediction.ipynb   # Main analysis notebook
-├── loan_approval_data.csv           # Dataset
-├── requirements.txt                 # Python dependencies
-├── .gitignore                       # Files excluded from version control
-└── README.md                        # Project documentation
+loan-approval-prediction/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── requirements.txt
+│
+├── loan_approval_prediction.ipynb
+│
+├── data/
+│   └── loan_approval_data.csv
 ```
 
 ## 🚀 Getting Started
